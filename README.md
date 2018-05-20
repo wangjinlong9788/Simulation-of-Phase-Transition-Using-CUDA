@@ -8,7 +8,8 @@ in cmd, a.out
 
 
 Simulation of Phase Transition,
-main file: template.cu
+
+main file: kernel.cu
 
 
 
