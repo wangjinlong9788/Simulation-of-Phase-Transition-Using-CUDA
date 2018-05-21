@@ -2,7 +2,7 @@
  FileUtilites for Non-VCL applications
  wraps file related functions in VCL style to use on any C/C++ compiler
 
- (c) Andreas Glatz, V2.0
+  
 */
 #ifndef fileutilsH
 #define fileutilsH
