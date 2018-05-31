@@ -7,12 +7,15 @@ in cmd, a.out
 
 
 
-Simulation of Phase Transition,
+# Simulation of Phase Transition,
 
 main file: kernel.cu
 
+For functions of situations with different temperature t, calculate the max amplitude and phase of each temperature t.
+This is the point when phase transition happens.
+ 
 
-the result is :
+# The result is :
 
 amp2_movie_f.m4v shows the process of amplitude change
 
